@@ -166,17 +166,6 @@ Vibe coded using Google AI Studio and Gemini 2.5 Pro
 
 ---
 
-## Roadmap
-
-- [ ] Microsoft Word Add-in for in-document analysis
-- [ ] Playbook automation for clause checklists
-- [ ] Multi-user collaboration and real-time updates
-- [ ] Integration with document management systems (iManage, SharePoint)
-- [ ] Citation verification against legal databases
-- [ ] Custom workflow builder
-
----
-
 ## Limitations
 
 - **Offline Mode** - Requires active internet connection for Gemini API
