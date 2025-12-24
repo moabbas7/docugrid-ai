@@ -185,7 +185,7 @@ This project is licensed under the MIT Licence - see the [LICENCE](LICENCE) file
 
 - [Google Gemini](https://ai.google.dev/) for the powerful AI capabilities
 - [Google AI Studio](https://aistudio.google.com/) for the vibe coding experience
-- Inspired by [Legora](https://legora.com/) and [Harvey AI](https://harvey.ai/)
+- Inspired by [Legora](https://legora.com/)
 
 ---
 
